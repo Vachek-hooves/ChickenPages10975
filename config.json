@@ -147,6 +147,23 @@
       "bundle_id": "com.outfitory",
       "store_url": "https://play.google.com/store/apps/details?id=com.outfitory",
       "weight": 1
+    },
+    {
+      "id": "chicken_video_1",
+      "format": "video",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "media_url": "https://vachek-hooves.github.io/ChickenPages10975/media/promo_1.mp4",
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_1.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.outfitory",
+      "store_url": "https://play.google.com/store/apps/details?id=com.outfitory",
+      "weight": 3
     }
   ]
 }
