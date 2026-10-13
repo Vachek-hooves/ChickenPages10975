@@ -1,0 +1,152 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 6,
+  "interstitial_every_n_actions_max": 8,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 5000,
+  "creatives": [
+    {
+      "id": "chicken_banner_1",
+      "format": "image",
+      "placements": [
+        "banner"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/banner_1.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "Chicken Road",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_1",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_1.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_2",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_2.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_3",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_3.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_4",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_4.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_5",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_5.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_6",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_6.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_7",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_7.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    },
+    {
+      "id": "chicken_full_8",
+      "format": "image",
+      "placements": [
+        "interstitial",
+        "rewarded"
+      ],
+      "image_url": "https://vachek-hooves.github.io/ChickenPages10975/media/interstitial_8.jpg",
+      "icon_url": "https://vachek-hooves.github.io/ChickenPages10975/media/icon.jpg",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.palmcraft.curvewood",
+      "store_url": "https://play.google.com/store/apps/details?id=com.palmcraft.curvewood",
+      "weight": 1
+    }
+  ]
+}
